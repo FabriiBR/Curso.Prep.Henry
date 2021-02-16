@@ -1,3 +1,4 @@
+//Terminado
 // No cambies los nombres de las funciones.
 
 function obtenerMayor(x, y) {
